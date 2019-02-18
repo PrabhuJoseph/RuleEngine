@@ -1,0 +1,28 @@
+{
+ "app": {
+      "bundle": "192219",
+	  "cat": "IAB3,utilities"
+ },
+ "device": {
+         "carrier": "440-20",
+		 "connectionType": "3",
+		 "deviceType": "4",
+		 "dnt": "0",
+		 "hwv": "iPhone 6+",
+		 "language": "ja",
+		 "make": "Apple",
+		 "model": "iPhone",
+		 "os": "ios"
+  },
+  "user": {
+       "userId": "4297637696",
+	   "gender": "m",
+	   "ageCategory": "18-25"	  
+  },
+  "geo": {
+        "country": "JPN",
+		"lat": "34.79",
+		"lon": "138.86"
+   },
+   "eventTs": "1473795000"
+}
